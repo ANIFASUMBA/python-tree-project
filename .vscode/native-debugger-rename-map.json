@@ -1,0 +1,16 @@
+{
+  "Turtle": "カメ",
+  "backward": "後退",
+  "bgcolor": "背景色",
+  "branch_length": "枝の長さ",
+  "color": "色",
+  "done": "終了",
+  "down": "ペン下げ",
+  "draw_tree": "木を描く",
+  "forward": "前進",
+  "left": "左回転",
+  "right": "右回転",
+  "screen": "画面",
+  "speed": "速度",
+  "turtle": "タートルモジュール"
+}
