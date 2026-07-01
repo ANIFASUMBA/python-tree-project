@@ -1,5 +1,4 @@
 # Python Tree Project 🌳
-
 A fun and interactive Python project. *(Edit this line to briefly describe what your tree project actually does!)*
 
 ## 🚀 Getting Started
